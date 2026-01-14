@@ -239,3 +239,9 @@ img {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+
+@media (max-width: 768px) {
+    .section-1 {
+        grid-column: 1/4;
+    }
+}
