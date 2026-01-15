@@ -240,8 +240,8 @@ img {
   }
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .section-1 {
         grid-column: 1/4;
     }
-}
+} */
